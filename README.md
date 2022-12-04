@@ -1,1 +1,2 @@
-# BIT_504_AT2_Task2
+# Hello word
+This is a simple progect what will output the text " Hello word" too the screen.
